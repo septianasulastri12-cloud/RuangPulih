@@ -1,0 +1,1 @@
+RuangPulih is an Android-based mental health support application built with Kotlin and Jetpack Compose. It provides mood tracking, journaling, user profiles, and chat functionality to support users in monitoring their emotional well-being.
